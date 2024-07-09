@@ -6,6 +6,7 @@ import img15 from './images/instagram.svg';
 import img16 from './images/youtube.svg';
 import imglogo from './images/logoimg.png';
 import imga1 from './images/about-img4.png';
+
 import imga2 from './images/downword  array.png';
 import imga3 from './images/about-img5.png';
 import imga4 from './images/about-img6.png';
